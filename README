@@ -1,0 +1,14 @@
+I want to learn more about security, so here's my gameplan to do so. This will certainly be edited as time goes on.
+
+1. Learn a little bit about ciphers, code them up, and then break them.
+	- Caesar cipher, Affine, substitution, Vigenere, Playfiar, Hill
+2. Learn about more modern encryption.
+	- DES and Triple DES
+	- AES (Rijndael cipher)
+	- public key cryptography
+
+3. Read the OWASP guidlines and learn common real-world vulnerabilities
+
+4. HackThisSite which can offer exercises
+
+5. Take part in CTF competitions
